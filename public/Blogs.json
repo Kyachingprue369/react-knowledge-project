@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/992xwdK0/Id-1.jpg",
+    "title": "The Future of AI",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/gL49v7MH/John-Doe.jpg",
+    "posted_date": "2025-02-10",
+    "reading_time": "5 min",
+    "hashtags": ["AI", "Technology", "Future"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/JwN3LC7z/Id-2.jpg",
+    "title": "Exploring the Deep Ocean",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/2bKDPrN/Jane-smith.jpg",
+    "posted_date": "2025-02-08",
+    "reading_time": "8 min",
+    "hashtags": ["Ocean", "Science", "Exploration"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/5hq3zrVv/id-3.jpg",
+    "title": "Mastering React in 2025",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/vCBV1GsZ/Alice-johnson.jpg",
+    "posted_date": "2025-02-12",
+    "reading_time": "6 min",
+    "hashtags": ["React", "JavaScript", "Web Development"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/2YPfvqGH/id-4.jpg",
+    "title": "Sustainable Travel Tips",
+    "author": "Robert Brown",
+    "author_img": "https://i.ibb.co.com/JjR6Lm7K/robert-brown.webp",
+    "posted_date": "2025-02-07",
+    "reading_time": "4 min",
+    "hashtags": ["Travel", "Eco-Friendly", "Sustainability"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co.com/HDcqtC5q/id-5.jpg",
+    "title": "Quantum Computing Demystified",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co.com/0jZ7LGC6/emily-white.jpg",
+    "posted_date": "2025-02-05",
+    "reading_time": "10 min",
+    "hashtags": ["Quantum Computing", "Tech", "Future"]
+  },
+  {
+    "id": 6,
+    "cover_img": "https://i.ibb.co.com/XkbwCkrV/Id-6.jpg",
+    "title": "Healthy Eating Hacks",
+    "author": "Michael Green",
+    "author_img": "https://i.ibb.co.com/rf4crbmg/michael-green.jpg",
+    "posted_date": "2025-02-14",
+    "reading_time": "7 min",
+    "hashtags": ["Health", "Nutrition", "Wellness"]
+  },
+  {
+    "id": 7,
+    "cover_img": "https://i.ibb.co.com/Jw3PgXJ6/Id-7.webp",
+    "title": "The Power of Mindfulness",
+    "author": "Sophia Wilson",
+    "author_img": "https://i.ibb.co.com/JW6c6fLk/sophia-wilson.jpg",
+    "posted_date": "2025-02-11",
+    "reading_time": "6 min",
+    "hashtags": ["Mindfulness", "Mental Health", "Well-being"]
+  },
+  {
+    "id": 8,
+    "cover_img": "https://i.ibb.co.com/hRq84DTq/Id-8.png",
+    "title": "Breaking Into Data Science",
+    "author": "Daniel Martinez",
+    "author_img": "https://i.ibb.co.com/RdNzH2S/daniel-martinez.jpg",
+    "posted_date": "2025-02-06",
+    "reading_time": "9 min",
+    "hashtags": ["Data Science", "Machine Learning", "Career"]
+  },
+  {
+    "id": 9,
+    "cover_img": "https://i.ibb.co.com/7xGP5jmw/Id-9.jpg",
+    "title": "The Rise of Electric Vehicles",
+    "author": "Olivia Adams",
+    "author_img": "https://i.ibb.co.com/YF29pWVm/olivia-adams.jpg",
+    "posted_date": "2025-02-09",
+    "reading_time": "5 min",
+    "hashtags": ["EV", "Sustainability", "Technology"]
+  },
+  {
+    "id": 10,
+    "cover_img": "https://i.ibb.co.com/C3CpmhNJ/Id-10.jpg",
+    "title": "The Art of Productivity",
+    "author": "William Taylor",
+    "author_img": "https://i.ibb.co.com/R44wrYhW/Ambassador-William-Taylor.jpg",
+    "posted_date": "2025-02-13",
+    "reading_time": "6 min",
+    "hashtags": ["Productivity", "Self-Improvement", "Success"]
+  }
+]
