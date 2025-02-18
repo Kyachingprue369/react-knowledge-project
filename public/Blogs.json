@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author_img": "https://i.ibb.co.com/gL49v7MH/John-Doe.jpg",
     "posted_date": "2025-02-10",
-    "reading_time": "5 min",
+    "reading_time": 5,
     "hashtags": ["AI", "Technology", "Future"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "Jane Smith",
     "author_img": "https://i.ibb.co.com/2bKDPrN/Jane-smith.jpg",
     "posted_date": "2025-02-08",
-    "reading_time": "8 min",
+    "reading_time": 8,
     "hashtags": ["Ocean", "Science", "Exploration"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co.com/vCBV1GsZ/Alice-johnson.jpg",
     "posted_date": "2025-02-12",
-    "reading_time": "6 min",
+    "reading_time": 6,
     "hashtags": ["React", "JavaScript", "Web Development"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Robert Brown",
     "author_img": "https://i.ibb.co.com/JjR6Lm7K/robert-brown.webp",
     "posted_date": "2025-02-07",
-    "reading_time": "4 min",
+    "reading_time": 4,
     "hashtags": ["Travel", "Eco-Friendly", "Sustainability"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Emily White",
     "author_img": "https://i.ibb.co.com/0jZ7LGC6/emily-white.jpg",
     "posted_date": "2025-02-05",
-    "reading_time": "10 min",
+    "reading_time": 10,
     "hashtags": ["Quantum Computing", "Tech", "Future"]
   },
   {
@@ -56,7 +56,7 @@
     "author": "Michael Green",
     "author_img": "https://i.ibb.co.com/rf4crbmg/michael-green.jpg",
     "posted_date": "2025-02-14",
-    "reading_time": "7 min",
+    "reading_time": 7,
     "hashtags": ["Health", "Nutrition", "Wellness"]
   },
   {
@@ -66,7 +66,7 @@
     "author": "Sophia Wilson",
     "author_img": "https://i.ibb.co.com/JW6c6fLk/sophia-wilson.jpg",
     "posted_date": "2025-02-11",
-    "reading_time": "6 min",
+    "reading_time": 6,
     "hashtags": ["Mindfulness", "Mental Health", "Well-being"]
   },
   {
@@ -76,7 +76,7 @@
     "author": "Daniel Martinez",
     "author_img": "https://i.ibb.co.com/RdNzH2S/daniel-martinez.jpg",
     "posted_date": "2025-02-06",
-    "reading_time": "9 min",
+    "reading_time": 9,
     "hashtags": ["Data Science", "Machine Learning", "Career"]
   },
   {
@@ -86,7 +86,7 @@
     "author": "Olivia Adams",
     "author_img": "https://i.ibb.co.com/YF29pWVm/olivia-adams.jpg",
     "posted_date": "2025-02-09",
-    "reading_time": "5 min",
+    "reading_time": 5,
     "hashtags": ["EV", "Sustainability", "Technology"]
   },
   {
@@ -96,7 +96,7 @@
     "author": "William Taylor",
     "author_img": "https://i.ibb.co.com/R44wrYhW/Ambassador-William-Taylor.jpg",
     "posted_date": "2025-02-13",
-    "reading_time": "6 min",
+    "reading_time": 6,
     "hashtags": ["Productivity", "Self-Improvement", "Success"]
   }
 ]

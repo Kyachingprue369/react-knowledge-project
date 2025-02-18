@@ -1,14 +1,17 @@
 import React from 'react';
 import Bookmark from '../Bookmark/Bookmark';
 
-const Bookmarks = ({ bookmarks }) => {
+const Bookmarks = ({ bookmarks, readingTime }) => {
   return (
-    <div className='md:w-1/3 bg-slate-200 p-5 rounded-sm'>
-      <h3 className='text-xl font-bold pl-2'>BookMarked Blogs: {bookmarks.length}</h3>
-      <div>
-        {
-          bookmarks.map(bookmark => <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
-        }
+    <div className='md:w-1/3'>
+      <h2 className='bg-blue-100 border-blue-700 border text-center text-xl font-bold py-4 rounded-md text-blue-600 my-4'>Spent time on read: {readingTime} min</h2>
+      <div className='bg-slate-200 p-5 rounded-md'>
+        <h3 className='text-xl font-bold pl-2'>Bookmarked Blogs: {bookmarks.length}</h3>
+        <div>
+          {
+            bookmarks.map(bookmark => <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+          }
+        </div>
       </div>
     </div>
   );
