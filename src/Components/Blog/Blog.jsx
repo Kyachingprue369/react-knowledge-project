@@ -5,7 +5,7 @@ import { FaRegBookmark } from 'react-icons/fa6';
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
   const { cover_img, title, author, author_img, posted_date, reading_time, hashtags } = blog;
   return (
-    <div className='mr-12 my-5 border-b-2 pb-8'>
+    <div className='md:mr-12 my-5 border-b-2 pb-8'>
       <img className='w-full h-[450px] rounded-xl object-cover' src={cover_img} alt="" />
       <div className='flex justify-between items-center py-3'>
         <div className='flex justify-center items-center gap-3'>
